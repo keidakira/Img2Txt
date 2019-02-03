@@ -1,6 +1,8 @@
 # Img2Txt
 This piece of Python Code translates the text present in the Image to English (or any language you want)
 
+(Make sure you are using Python 2.7.x)
+
 Before starting off, you have to have certain prerequisites such as:
 1. Having Node.js installed on your device
 2. Install googletrans using the code npm install googletrans
