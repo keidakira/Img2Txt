@@ -20,7 +20,7 @@ while flag:
         print("Translating Text to English...")
         translation = translator.translate(str, dest='en')
         # Here 'en' means translating text to English change it to any language you want
-        print("Translated Text: \n"+translation.text.encode("utf-8"))
+        print("Translated Text: \n"+translation.text)
         flag = 0
 
 
